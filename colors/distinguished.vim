@@ -135,3 +135,6 @@ hi link phpDocParam        vimCommentTitle
 hi link diffAdded          DiffAdd
 hi link diffChanged        DiffChange
 hi link diffRemoved        DiffDelete
+
+hi CursorLine cterm=NONE ctermbg=233 ctermfg=NONE
+hi CursorColumn cterm=NONE ctermbg=233 ctermfg=NONE
