@@ -181,5 +181,5 @@ hi link diffChanged        DiffChange
 hi link diffRemoved        DiffDelete
 
 
-hi CursorLine cterm=NONE ctermbg=233 ctermfg=NONE
-hi CursorColumn cterm=NONE ctermbg=233 ctermfg=NONE
+hi CursorLine cterm=NONE ctermbg=235 ctermfg=NONE
+hi CursorColumn cterm=NONE ctermbg=235 ctermfg=NONE
